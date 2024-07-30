@@ -5,6 +5,7 @@ public class StudentGradeCalculator {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter the number of subjects: ");
+         System.out.print("dalore jldi ");
         int numSubjects = scanner.nextInt();
 
         double totalMarks = 0;
